@@ -7,3 +7,5 @@ We present the SQL which was used to select the data from the waarnemingen.be da
 
 For the Dragonflies, we describe the data selection from the DEMNA dataset, we include the files of species and 
 add the SQL for the selection of the dragonfly data from waarnemingen.be
+
+For the moths, we add an explanation about the moth monitoring network which contributed their data to the lpi.  
